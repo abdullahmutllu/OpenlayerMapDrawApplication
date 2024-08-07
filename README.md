@@ -23,10 +23,10 @@ OpenLayers ile Haritada çizim  Uygulaması, kullanıcılara interaktif bir hari
 - **Veritabanı**: PostgreSQL (PostGIS ile coğrafi veri desteği)
 - **Diğer Araçlar**: Docker, SCSS
 
-## Ekran Görüntüleri
+## Porje Görüntüleri
+*Ana Sayfa*
 ![Ana Ekran](https://github.com/user-attachments/assets/f757d702-362b-4da1-b19b-7bddad2f633f)
 
-*Ana Sayfa*
 ![ÇizimTablosu](https://github.com/user-attachments/assets/5e74e20a-b527-4e4a-b8d5-d6558550e4a9)
 
 ![hartitaÇizim](https://github.com/user-attachments/assets/cf43348d-c48c-45d0-a1e3-bc56507fae06)
