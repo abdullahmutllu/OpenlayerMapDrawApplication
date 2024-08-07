@@ -4,6 +4,8 @@
 
 Bu proje, OpenLayers kütüphanesini kullanarak interaktif bir harita çizim uygulaması geliştirmek için  frontend de React ve  backend de .NET Core teknolojilerini bir araya getirmektedir. Kullanıcılar, harita üzerinde konum pinleyebilir , line ile çizim yapabilir veya polygon kullanarak alan çizimleri yapabilir.
 Uygulamayı canlı olarak görmek için [buraya tıklayın](https://abdullahmutllu.github.io/OpenlayerMapDrawApplication/).
+Uygulamanın api projesine ulaşmak için [buraya tıklayın](https://github.com/abdullahmutllu/DrawApplicationApi/).
+
 ## Proje Açıklaması
 
 OpenLayers ile Haritada çizim  Uygulaması, kullanıcılara interaktif bir harita üzerinde belirli konumları pinleme, güncelleme ve silme imkanı sağlar. React kullanarak dinamik ve kullanıcı dostu bir frontend geliştirilmiş olup, backend tarafında ise .NET Core API ile veri işleme ve saklama işlemleri gerçekleştirilmiştir. Bu uygulama, harita tabanlı projelerde temel bir yapı taşını oluşturmakta ve coğrafi verilerin yönetimini kolaylaştırmaktadır.
