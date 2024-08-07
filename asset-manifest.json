@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OpenlayerMapDrawApplication/static/css/main.0fab6479.css",
+    "main.js": "/OpenlayerMapDrawApplication/static/js/main.b50e11b9.js",
+    "static/js/453.4a72f6ce.chunk.js": "/OpenlayerMapDrawApplication/static/js/453.4a72f6ce.chunk.js",
+    "index.html": "/OpenlayerMapDrawApplication/index.html",
+    "main.0fab6479.css.map": "/OpenlayerMapDrawApplication/static/css/main.0fab6479.css.map",
+    "main.b50e11b9.js.map": "/OpenlayerMapDrawApplication/static/js/main.b50e11b9.js.map",
+    "453.4a72f6ce.chunk.js.map": "/OpenlayerMapDrawApplication/static/js/453.4a72f6ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fab6479.css",
+    "static/js/main.b50e11b9.js"
+  ]
+}
