@@ -1,0 +1,8 @@
+/* App.css */
+.ol-viewport {
+  cursor: default;
+}
+
+.ol-viewport.modify-cursor {
+  cursor: crosshair; /* Güncelleme sırasında kullanmak istediğiniz imleç */
+}
