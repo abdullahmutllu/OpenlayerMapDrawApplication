@@ -52,6 +52,6 @@ OpenLayers ile Haritada çizim  Uygulaması, kullanıcılara interaktif bir hari
 
 Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz:
 
-- **Email**: [email@example.com](abdullah.mutllu@gmail.com)
+- **Email**: [abdullah.mutllu@gmail.com]
 
 
