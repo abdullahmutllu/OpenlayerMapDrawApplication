@@ -1,4 +1,5 @@
-# OpenlayerMapDrawApplication
+# OpenlayersMapDrawApplication
+
 # OpenLayers ile Harita Pinleme Uygulaması
 
 Bu proje, OpenLayers kütüphanesini kullanarak interaktif bir harita çizim uygulaması geliştirmek için  frontend de React ve  backend de .NET Core teknolojilerini bir araya getirmektedir. Kullanıcılar, harita üzerinde konum pinleyebilir , line ile çizim yapabilir veya polygon kullanarak alan çizimleri yapabilir.
